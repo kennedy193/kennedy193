@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kennedy Butera</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedy193&label=Profile%20views&color=0e75b6&style=flat" alt="kennedy193" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennedy193" alt="kennedy193" /></a> </p>
-
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **buterakennedy86@gmail.com**

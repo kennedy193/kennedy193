@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kennedy Butera</h1>
 <h3 align="center">A passionate Web developer</h3>
-## 🌐 Socials:
+ 🌐 Socials:
 <a href="https://codepen.io/kennedy-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kennedy-dev" height="30" width="40" /></a>
 <a href="https://twitter.com/kennedybutera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kennedybutera" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kennedy-butera-4a400025a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kennedy-butera-4a400025a/" height="30" width="40" /></a>

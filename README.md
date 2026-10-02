@@ -6,10 +6,26 @@ Software Engineer, based in Kigali, Rwanda 🇷🇼<br/>
 Available for freelance work and new opportunities.
 </p>
 
-### 🚀 What I can for you
+### 🚀 What I build for you
 - Full-stack web applications with **Spring Boot + Thymeleaf**
 - Business dashboards, admin panels, and database-driven systems (PostgreSQL / MySQL)
 - Responsive, clean front-ends with **HTML, CSS, JavaScript and Bootstrap**
+
+### 🚀 Featured Projects
+
+| Project | Stack | Links |
+|---|---|---|
+| **Fitness Website** | Web app | [Live demo](https://kennedy193.github.io/fitness-website/) · [Code](https://github.com/kennedy193/fitness-website) |
+| **Carpentry Management System** | Spring Boot · Thymeleaf | [Code](https://github.com/kennedy193/CMS-project) |
+| **AUCA Certificate Generator** | C# | [Code](https://github.com/kennedy193/auca-certificate-generator) |
+
+### 🧭 How I work
+
+| | |
+|---|---|
+| **01 · Security by default** | Validate on the server, never trust the form alone. |
+| **02 · Keep it simple** | Add complexity only when it solves a real problem. |
+| **03 · Build to change** | Code that's easy to modify beats code that's clever. |
 
 ### 📬 Let's work together
 Reach me on LinkedIn or Twitter below, or send me a message on Upwork / Freelancer.

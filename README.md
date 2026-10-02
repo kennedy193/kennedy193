@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kennedy Butera</h1>
-<h3 align="center">A passionate Web developer </h3>
+<h3 align="center">Java & Spring Boot Developer building web apps for startups and small businesses</h3>
+
+<p align="center">
+Software Engineer, based in Kigali, Rwanda 🇷🇼<br/>
+Available for freelance work and new opportunities.
+</p>
+
+### 🚀 What I can for you
+- Full-stack web applications with **Spring Boot + Thymeleaf**
+- Business dashboards, admin panels, and database-driven systems (PostgreSQL / MySQL)
+- Responsive, clean front-ends with **HTML, CSS, JavaScript and Bootstrap**
+
+### 📬 Let's work together
+Reach me on LinkedIn or Twitter below, or send me a message on Upwork / Freelancer.
 
 🌐 Socials:
 <p align="left">
@@ -35,16 +48,17 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="right valign="middle" style="border: none; ">
-  <img src="https://visitcount.itsvg.in/api?id=kennedy193&icon=0&color=0" alt="Profile Views" />
-  <img src="https://committers.top" alt="Committers.top Rank" />
-</p>
+# My Stats:
+
+<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/rwanda.md"><img src="https://user-badge.committers.top/rwanda/kennedy193.svg" alt="Committers.top Rank" /></a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=kennedy193&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=kennedy193&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://demolab.com)<br/>
-![](https://vercel.app)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kennedy193&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedy193&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
@@ -52,4 +66,6 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=kennedy193&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

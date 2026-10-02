@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kennedy Butera</h1>
 <h3 align="center">A passionate Web developer </h3>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kennedy193&icon=0&color=0" alt="Profile Views" />
-  <img src="https://committers.top" alt="Committers.top Rank" />
-</p>
-
 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/kennedybutera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kennedybutera" height="30" width="40" /></a>
@@ -39,6 +34,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<p align="right valign="middle" style="border: none; ">
+  <img src="https://visitcount.itsvg.in/api?id=kennedy193&icon=0&color=0" alt="Profile Views" />
+  <img src="https://committers.top" alt="Committers.top Rank" />
+</p>
 
 # 📊 GitHub Stats:
 

@@ -9,7 +9,7 @@ Available for freelance work and new opportunities.
 ### 🚀 What I build for you
 - Full-stack web applications with **Spring Boot + Thymeleaf**
 - Business dashboards, admin panels, and database-driven systems (PostgreSQL / MySQL)
-- Responsive, clean front-ends with **HTML, CSS, JavaScript and Bootstrap**
+- Responsive, clean front-ends with **HTML, CSS, JavaScript and tailwindCss**
 
 ### 🚀 Featured Projects
 
@@ -42,7 +42,6 @@ Reach me on LinkedIn or Twitter below, or send me a message on Upwork / Freelanc
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 **Backend**<br/>
